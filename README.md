@@ -1,3 +1,3 @@
-# `factory-girl-rails` Gem Walkthrough
+# `rspec-rails` Gem Walkthrough
 
-## View the [full tutorial](http://rails.devcamp.com/trails/ruby-gem-walkthroughs/campsites/testing-gems/guides/factory-girl-rails)
+## View the [full tutorial](http://rails.devcamp.com/trails/ruby-gem-walkthroughs/campsites/testing-gems/guides/rspec-rails-gem-tutorial)
